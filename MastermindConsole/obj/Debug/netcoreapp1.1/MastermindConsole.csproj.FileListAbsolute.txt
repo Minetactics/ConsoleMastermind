@@ -1,0 +1,9 @@
+c:\users\etudiant\documents\visual studio 2017\Projects\MastermindConsole\MastermindConsole\bin\Debug\netcoreapp1.1\MastermindConsole.deps.json
+c:\users\etudiant\documents\visual studio 2017\Projects\MastermindConsole\MastermindConsole\bin\Debug\netcoreapp1.1\MastermindConsole.runtimeconfig.json
+c:\users\etudiant\documents\visual studio 2017\Projects\MastermindConsole\MastermindConsole\bin\Debug\netcoreapp1.1\MastermindConsole.runtimeconfig.dev.json
+c:\users\etudiant\documents\visual studio 2017\Projects\MastermindConsole\MastermindConsole\bin\Debug\netcoreapp1.1\MastermindConsole.dll
+c:\users\etudiant\documents\visual studio 2017\Projects\MastermindConsole\MastermindConsole\bin\Debug\netcoreapp1.1\MastermindConsole.pdb
+c:\users\etudiant\documents\visual studio 2017\Projects\MastermindConsole\MastermindConsole\obj\Debug\netcoreapp1.1\MastermindConsole.csprojResolveAssemblyReference.cache
+c:\users\etudiant\documents\visual studio 2017\Projects\MastermindConsole\MastermindConsole\obj\Debug\netcoreapp1.1\MastermindConsole.AssemblyInfo.cs
+c:\users\etudiant\documents\visual studio 2017\Projects\MastermindConsole\MastermindConsole\obj\Debug\netcoreapp1.1\MastermindConsole.dll
+c:\users\etudiant\documents\visual studio 2017\Projects\MastermindConsole\MastermindConsole\obj\Debug\netcoreapp1.1\MastermindConsole.pdb
